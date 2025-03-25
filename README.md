@@ -22,7 +22,7 @@ Aplikasi ini memungkinkan operator untuk mengirim perintah restart dan memantau 
 - Konfigurasi broker MQTT yang valid  
 
 ## 📥 | Instalasi  
-1. Unduh APK dari [Releases](https://github.com/username/respon-spklu/releases).  
+1. Unduh APK dari [Releases](https://github.com/animegasan/respon-spklu/releases).  
 2. Izinkan pemasangan dari sumber tidak dikenal jika diminta.  
 3. Instal aplikasi seperti biasa di perangkat Android Anda.  
 
@@ -33,7 +33,7 @@ Untuk menggunakan Respon SPKLU, silakan masukkan konfigurasi yang diberikan oleh
 ### Langkah-langkah:  
 1. Buka file konfigurasi yang diberikan oleh admin.  
 2. Klik kanan pada file tersebut, lalu pilih Edit dengan Notepad.  
-   ![image](https://github.com/user-attachments/assets/5097a3c6-6eeb-4c86-83e6-3eb7ca0ac5b4)  
+   ![image](https://github.com/user-attachments/assets/a47a7cb3-9371-4b9a-a51a-c2c339569344)
 3. Salin informasi berikut dari file konfigurasi:  
    - Address → Masukkan ke Broker URL  
    - Port → Masukkan ke Port  
