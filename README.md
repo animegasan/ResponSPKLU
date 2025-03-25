@@ -22,7 +22,7 @@ Aplikasi ini memungkinkan operator untuk mengirim perintah restart dan memantau 
 - Konfigurasi broker MQTT yang valid  
 
 ## 📥 | Instalasi  
-1. Unduh APK dari [Releases](https://github.com/animegasan/respon-spklu/releases).  
+1. Unduh APK dari [Releases](https://github.com/animegasan/ResponSPKLU/releases).  
 2. Izinkan pemasangan dari sumber tidak dikenal jika diminta.  
 3. Instal aplikasi seperti biasa di perangkat Android Anda.  
 
